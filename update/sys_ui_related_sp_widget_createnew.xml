@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sp_widget" version="2" view="createnew">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - CreateNew" name="sp_widget" related_list="NULL" sys_domain="global" view="1494d1de2fb9b010326955f62799b674">bf9455122ff9b010326955f62799b64b</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>m2m_sp_widget_dependency.sp_widget</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-08 05:17:51</sys_created_on>
+            <sys_id>7f9455122ff9b010326955f62799b64c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-08 05:17:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - CreateNew" name="sp_widget" related_list="NULL" sys_domain="global" view="1494d1de2fb9b010326955f62799b674">bf9455122ff9b010326955f62799b64b</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>m2m_sp_ng_pro_sp_widget.sp_widget</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-08 05:17:51</sys_created_on>
+            <sys_id>f39455122ff9b010326955f62799b64d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-08 05:17:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - CreateNew" name="sp_widget" related_list="NULL" sys_domain="global" view="1494d1de2fb9b010326955f62799b674">bf9455122ff9b010326955f62799b64b</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sp_ng_template.sp_widget</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-08 05:17:51</sys_created_on>
+            <sys_id>7b9455122ff9b010326955f62799b64d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-08 05:17:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - CreateNew" name="sp_widget" related_list="NULL" sys_domain="global" view="1494d1de2fb9b010326955f62799b674">bf9455122ff9b010326955f62799b64b</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:99079b30d7301200a9addd173e24d481</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-08 05:17:51</sys_created_on>
+            <sys_id>ff9455122ff9b010326955f62799b64d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-08 05:17:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - CreateNew" name="sp_widget" related_list="NULL" sys_domain="global" view="1494d1de2fb9b010326955f62799b674">bf9455122ff9b010326955f62799b64b</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>sp_instance.sp_widget</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-08 05:17:51</sys_created_on>
+            <sys_id>779455122ff9b010326955f62799b64e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-08 05:17:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - CreateNew" name="sp_widget" related_list="NULL" sys_domain="global" view="1494d1de2fb9b010326955f62799b674">bf9455122ff9b010326955f62799b64b</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>m2m_sp_widget_uc_can_view.sp_widget</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-08 05:17:51</sys_created_on>
+            <sys_id>fb9455122ff9b010326955f62799b64e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-08 05:17:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - CreateNew" name="sp_widget" related_list="NULL" sys_domain="global" view="1494d1de2fb9b010326955f62799b674">bf9455122ff9b010326955f62799b64b</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>m2m_sp_widget_uc_cannot_view.sp_widget</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-08 05:17:51</sys_created_on>
+            <sys_id>739455122ff9b010326955f62799b64f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-08 05:17:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Widget - CreateNew</calculated_name>
+            <filter/>
+            <name>sp_widget</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-08 05:17:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf9455122ff9b010326955f62799b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Widget - CreateNew</sys_name>
+            <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+            <sys_update_name>sys_ui_related_sp_widget_createnew</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-08 05:17:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="CreateNew" name="createnew">1494d1de2fb9b010326955f62799b674</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
